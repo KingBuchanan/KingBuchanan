@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingBuchanan
-- 👀 I’m interested in ... Robotics, Machine Learning and other fun stuff
-- 🌱 I’m currently learning ... everything I can! But focused on machine learning for a cert.
-- 💞️ I’m looking to collaborate on ... not sure 
+- 👀 I’m interested in ... Robotics, Machine Learning and Game Design 
+- 🌱 I’m currently learning ... unreal engine, azure certifications and game development 
+- 💞️ I’m looking to collaborate on ... games, Python modules, anything really ask inside. 
 - 📫 How to reach me ... email hakeemsbuchanan@outlook.com
 
 <!---
